@@ -1,0 +1,10 @@
+C:\Users\ejgt0\source\repos\PIngPongGame\bin\Debug\PIngPongGame.exe.config
+C:\Users\ejgt0\source\repos\PIngPongGame\bin\Debug\PIngPongGame.exe
+C:\Users\ejgt0\source\repos\PIngPongGame\bin\Debug\PIngPongGame.pdb
+C:\Users\ejgt0\source\repos\PIngPongGame\obj\Debug\PIngPongGame.csproj.AssemblyReference.cache
+C:\Users\ejgt0\source\repos\PIngPongGame\obj\Debug\PIngPongGame.Form1.resources
+C:\Users\ejgt0\source\repos\PIngPongGame\obj\Debug\PIngPongGame.Properties.Resources.resources
+C:\Users\ejgt0\source\repos\PIngPongGame\obj\Debug\PIngPongGame.csproj.GenerateResource.cache
+C:\Users\ejgt0\source\repos\PIngPongGame\obj\Debug\PIngPongGame.csproj.CoreCompileInputs.cache
+C:\Users\ejgt0\source\repos\PIngPongGame\obj\Debug\PIngPongGame.exe
+C:\Users\ejgt0\source\repos\PIngPongGame\obj\Debug\PIngPongGame.pdb
